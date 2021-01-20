@@ -1,0 +1,65 @@
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Ubuntu', sans-serif; */
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  line-height: 1.5;
+  font-size: 4rem;
+  font-weight: 600;
+  color: #001427;
+}
+
+#title{
+  background-color: #e8eef2;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #001427;
+}
+.nav-item{
+  padding: 0 16px;
+}
+.nav-link{
+  font-size: 1.2rem;
+  font-weight: 200;
+}
+.navl{
+  margin-right: 20px;
+}
+
+/*heading*/
+
+.head-container{
+  padding-top: 60px;
+}
+.heading{
+  text-align: center;
+}
+.sub-heading{
+  text-align: center;
+}
+
+.title-content{
+  width: 80%;
+  margin: auto;
+  padding-top: 50px;
+}
+.event-details{
+  color: #001427;
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.schedule-image{
+  padding-top: 50px;
+  width:72%;
+  margin: auto;
+  padding-bottom: 500px;
+}
+
+.event-flow{
+  width:100%;
+  height:auto;
+}
